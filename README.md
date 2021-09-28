@@ -5,8 +5,6 @@ I am a student of Software Engineering dept. of Daffodil International Universit
 - 💞️ Currently learing vue.js which helps me to develop web system more efficiently.
 - 📫 Expert on Laravel but want to do more with Laravel in future. 
 
-Languages and Tools
-- C, C#, python, java, php.
-- Xampp mysql
-Frameworks 
-- Dot net core, Laravel 
+Languages and Frameworks
+- C, C#, python, java, php, html, css, javascript, mysql.
+- Dot net core, Laravel. 
