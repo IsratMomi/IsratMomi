@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IsratMomi
+- 👋 Hi, I’m @IsratJahan
 - 👀 I’m interested in machine learning with data science.
 - 🌱 I’m currently staying on advance level of web developing.
 - 💞️ Currently learing vue.js which helps me to develop web system more efficiently.
