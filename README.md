@@ -1,3 +1,4 @@
+I am a student of Software Engineering dept. of Daffodil International University. I have a big passion in web developing.
 - 👋 Hi, I’m @IsratJahan
 - 👀 I’m interested in machine learning with data science.
 - 🌱 I’m currently staying on advance level of web developing.
